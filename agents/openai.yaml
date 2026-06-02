@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown to PPT"
+  short_description: "把中英文 Markdown 想法稿整理为 PPT 大纲、HTML 样稿，并可选转换为 PPTX。"
+  default_prompt: "请使用 markdown-to-ppt skill，将这个 Markdown 想法文件整理成可确认的大纲，生成指定风格的 HTML PPT 样稿，并在需要时转换为 PPTX。"
